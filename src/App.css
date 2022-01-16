@@ -3,14 +3,14 @@
 }
 
 body {
-  background-color: #f5f6fa;
+background:black;
 }
 
 .app {
   display: flex;
   justify-content: space-evenly;
   background-color: #f5f6fa;
-  padding: 20px;
+  padding: 20px;background:black;
 }
 
 .app__dropdown {
